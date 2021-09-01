@@ -22,8 +22,8 @@ Cell `:`.  Room `0` is the Prison Gate from which the Prisoner can escape.
     Prison      _7___8___9_
                / | \ | / | \
         Gate 0/__4__\5/__6__\: Cell
-               \ | / | \ | /
-                \1/__2__\3/
+              \  | / | \ |  /
+               \_1/__2__\3_/
 
 Rooms are connected by elevators (up/down moves), stairs (diagonal moves), and
 floors (horizontal moves).
@@ -48,9 +48,9 @@ A Prisoner begins in his Prison Cell at position `:`.
 4. If the Prisoner cannot move because all connecting Rooms are occupied, then
    he is caught and your winning score is increased.
 
-5. If the Prisoner can reach the Gate (Room '0') then he wins by escaping.
+5. If the Prisoner can reach the Gate (Room `0`) then he wins by escaping.
 
-6. Guards can only move forward (to the right), except from the Cell (Room ‘:’)
+6. Guards can only move forward (to the right), except from the Cell (Room `:`)
    where a Guard can freely move back to a connecting Room.
 
 7. If after 30 moves the Prisoner is still not caught, then he will escape
