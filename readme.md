@@ -12,9 +12,9 @@ Every time a Prisoner is caught, the Prisoner learns from his mistakes and
 will not make the same mistake again!  The Prisoner gets smarter and smarter,
 just as you learn to find new ways to catch the Prisoner.
 
-The goal is to catch the prisoner as many times as possible.  There are at
-least fourty different ways to catch the Prisoner.  Can you get to fourty or
-more captures?
+The goal is to catch the Prisoner as many times as possible.  There are at
+least 40 different ways to catch the Prisoner.  Can you get to 40 or more
+captures?
 
 The game board has 11 positions called Rooms, numbered `0` to `9` and a Prison
 Cell `:`.  Room `0` is the Prison Gate from which the Prisoner can escape.
