@@ -50,7 +50,7 @@ A Prisoner begins in his Prison Cell at position `:`.
 
 5. If the Prisoner can reach the Gate (Room `0`) then he wins by escaping.
 
-6. Guards can only move forward (to the right), except from the Cell (Room `:`)
+6. Guards cannot move backward, to the left, except from the Cell (Room `:`)
    where a Guard can freely move back to a connecting Room.
 
 7. If after 30 moves the Prisoner is still not caught, then he will escape
