@@ -12,6 +12,8 @@ Every time a Prisoner is caught, the Prisoner learns from his mistakes and
 will not make the same mistake again!  The Prisoner gets smarter and smarter,
 just as you learn to find new ways to catch the Prisoner.
 
+Beware: the game can be addictive once the Prisoner starts talking to you!
+
 The goal is to catch the Prisoner as many times as possible.  There are at
 least 40 different ways to catch the Prisoner.  Can you get to 40 or more
 captures?
