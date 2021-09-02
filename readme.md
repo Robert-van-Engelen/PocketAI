@@ -24,8 +24,8 @@ Cell `:`.  Room `0` is the Prison Gate from which the Prisoner can escape.
     Prison      _7___8___9_
                / | \ | / | \
         Gate 0/__4__\5/__6__\: Cell
-              \  | / | \ |  /
-               \_1/__2__\3_/
+              \  |  /|\  |  /
+               \_1_/_2_\_3_/
 
 Rooms are connected by elevators (up/down moves), stairs (diagonal moves), and
 floors (horizontal moves).
