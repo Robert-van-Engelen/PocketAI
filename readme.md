@@ -1,6 +1,6 @@
 # Alcatraz!
 
-A self-learning strategy game with AI for SHARP pocket computers.
+A self-learning AI strategy game for SHARP pocket computers.
 
 ![PC-1360](PC-1360.jpeg)
 
@@ -57,8 +57,6 @@ A Prisoner begins in his Prison Cell at position `:`.
 
 7. If after 30 moves the Prisoner is still not caught, then he will escape
    regardless.
-
-Enjoy!
 
 ## How to load
 
