@@ -1,6 +1,7 @@
 # Alcatraz!
 
-A self-learning AI strategy game for SHARP pocket computers.
+A self-learning AI strategy game for SHARP pocket computers based on a C
+program I wrote in the 80s to demonstrate a self-learning strategy game.
 
 ![PC-1360](PC-1360.jpeg)
 
@@ -60,12 +61,12 @@ A Prisoner begins in his Prison Cell at position `:`.
 
 ## How to load
 
-Use the excellent [PocketTools](https://www.peil-partner.de/ifhe.de/sharp/)
-to convert BASIC source code to wav files:
+Play the wav file to `CLOAD` on your pocket computer.
+
+The excellent [PocketTools](https://www.peil-partner.de/ifhe.de/sharp/)
+are used to convert BASIC source code to wav files:
 
     bas2img --pc=1350 --level=8 alcatraz.bas
     bin2wav --pc=1350 alcatraz.img
-
-Then `CLOAD` on your pocket computer.
 
 Author: Dr. Robert A. van Engelen
